@@ -1,0 +1,3 @@
+aibot.gemini_key (Gemini API key) string
+aibot.model (Gemini model) string gemini-2.5-flash
+aibot.think_interval (Seconds between AI decisions) float 8
